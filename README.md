@@ -1,6 +1,6 @@
 # Let's Chat Tool [![Developed by Joshua Alcantara](https://img.shields.io/badge/Developed--By-Joshua--Alcantara-red?longCache=true&style=for-the-badge)](https://facebook.com/IamPseudoX)
 
-    Created by Pseudo-X [2019 Spammer Tool - Re-developed ]
+    Created by Pseudo-X [2020LetChat Tool - Re-developed ]
 
 ### How to use
 
